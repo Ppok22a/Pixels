@@ -25,7 +25,7 @@ ADB Procedures using a PC:
   until the developer mode is enabled.
 
 ![about phone](about_phone2.jpg)
-</details>
+</details>?
 
 ### 2. Enable USB debugging
 
